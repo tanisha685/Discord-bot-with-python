@@ -1,6 +1,13 @@
 
 # 🤖 Fun Discord Bot
 
+## 🎥 Demo
+
+
+
+https://github.com/user-attachments/assets/7ef708be-779f-4958-b56f-14365f9d2461
+
+
 A simple and fun Discord bot built using **Python** and **discord.py** that sends memes, quotes, jokes, and fun facts — all through simple chat commands!  
 It’s lightweight, beginner-friendly, and perfect for learning API integration in Discord bots.
 
